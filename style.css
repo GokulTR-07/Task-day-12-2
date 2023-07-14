@@ -1,0 +1,33 @@
+.doc-box {
+  border: 3px double black;
+  margin: 20px;
+  padding-top: 30px;
+  background-image: linear-gradient(to left, #51e2f5,Blue,#9df9ef,#edf756);
+}
+.box-1 {
+  background-color: #51e2f5;
+}
+.box-2{
+  border: 3px black;
+  border-style: groove;
+  margin: 50px 60px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  text-align: center;
+  background-color: #ffa8B6;
+}
+
+img {
+  height: 200px;
+  width: 150px;
+}
+
+ 
+
+
+
+
+ 
+
+
+
